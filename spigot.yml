@@ -108,8 +108,8 @@ world-settings:
       misc: 32
       other: 64
     ticks-per:
-      hopper-transfer: 24
-      hopper-check: 24
+      hopper-transfer: 8
+      hopper-check: 8
     hopper-amount: 3
     mob-spawn-range: 3
     random-light-updates: false
